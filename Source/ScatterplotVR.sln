@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScatterplotVR", "ScatterplotVR.csproj", "{05FECA8E-99B3-F026-3676-E1A331D63DF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScatterplotVR.Editor", "ScatterplotVR.Editor.csproj", "{537702D5-A38D-5313-C075-224CFB85A679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05FECA8E-99B3-F026-3676-E1A331D63DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FECA8E-99B3-F026-3676-E1A331D63DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FECA8E-99B3-F026-3676-E1A331D63DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FECA8E-99B3-F026-3676-E1A331D63DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{537702D5-A38D-5313-C075-224CFB85A679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{537702D5-A38D-5313-C075-224CFB85A679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{537702D5-A38D-5313-C075-224CFB85A679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{537702D5-A38D-5313-C075-224CFB85A679}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
